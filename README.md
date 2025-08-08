@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there 👋
+I’m Jyothi Joga, passionate about Cybersecurity and Data Analysis. I love exploring technology, building projects, and continuously learning new skills.
 
-<!--
-**Joga-Jyothi/Joga-Jyothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
 
-Here are some ideas to get you started:
+🔭 Currently Working On: Cybersecurity and Data Analysis projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning: Web penetration testing (starting from the basics) and other emerging technologies.
+
+👯 Looking to Collaborate On:
+
+  * Open-source projects related to web penetration testing.
+
+  * Full-stack projects involving machine learning.
+
+🤔 Looking for Help With:
+   * Advanced web penetration testing projects.
+   * Optimization algorithms for efficient performance.
+
+💬 Ask Me About:
+   * My favorite data analysis techniques in coding languages.
+   * My experiences as an advanced learner in these areas.
+
+📫 How to Reach Me:
+  * Email: jogajyothij@gmail.com
+  * LinkedIn: linkedin.com/in/jyothi-joga-b2a59b2b6
+
+😄 Pronouns: She/Her
+
+⚡ Fun Fact: I enjoy solving bug bounty challenges and security problems.
+
