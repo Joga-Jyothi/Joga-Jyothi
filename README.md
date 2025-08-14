@@ -23,7 +23,7 @@ I’m Jyothi Joga, passionate about Cybersecurity and Data Analysis. I love expl
 
 📫 How to Reach Me:
   * Email: jogajyothij@gmail.com
-  * LinkedIn: linkedin.com/in/jyothi-joga-b2a59b2b6
+  * LinkedIn:https://www.linkedin.com/in/jyothi-joga-b2a59b2b6/
 
 😄 Pronouns: She/Her
 
