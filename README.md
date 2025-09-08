@@ -24,7 +24,7 @@ My experiences as an advanced learner in these areas.
 
 Email: jogajyothij@gmail.com
 
-LinkedIn: linkedin.com/in/jyothi-joga
+LinkedIn:https://www.linkedin.com/in/jyothi-joga/
 
 😄 Pronouns: She/Her
 
